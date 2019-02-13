@@ -30,7 +30,6 @@ Luego añadimos en el package.json del proyecto un nuevo script para arrancar el
 
 ```json
 "scripts": {
-    //...
     "local": "nodemon ./index.js -l"
   },
 ```
